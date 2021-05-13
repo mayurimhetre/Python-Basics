@@ -12,5 +12,5 @@ Function Used -- random.choices
 File4 : string_operations.py
 String operatiosn- sort ,reversed,taking multiple inputs,length of string, generating password
 
-File 5: Spelling Checker in Python
+File 5:spelll-chcek.py---- Spelling Checker in Python
 Module used : textblob
