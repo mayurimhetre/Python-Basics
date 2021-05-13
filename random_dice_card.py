@@ -23,3 +23,15 @@ def  dice_select():
     dice1 = random.choices(dice)
     print("Value on dice after rolling:{}".format(dice1[0]))
 dice_select()
+
+
+
+### two dice at a the same time 
+dice11 = [1,2,3,4,5,6]
+dice22 = [1,2,3,4,5,6]
+
+def  dice_select1():
+    dice1 = random.choices(dice11)
+    dice2 = random.choices(dice22)
+    print("Value on dice after rolling Dice1 :{} and Dice2 : {}".format(dice1[0],dice2[0]))
+dice_select1()
