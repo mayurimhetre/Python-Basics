@@ -14,3 +14,9 @@ String operatiosn- sort ,reversed,taking multiple inputs,length of string, gener
 
 File 5:spelll-chcek.py---- Spelling Checker in Python
 Module used : textblob
+
+File 6: os attributes
+os module operations
+
+File 7:list operations
+copy , deepcopy
