@@ -23,6 +23,8 @@ copy , deepcopy
 
 File 8: oops concept in python
 1.Inheritance
+
 2.Encapsulation
+
 3.__doc__ ,__init__
 
