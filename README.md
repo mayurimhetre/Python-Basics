@@ -28,3 +28,7 @@ File 8: oops concept in python
 
 3.__doc__ ,__init__
 
+4.magic methods
+
+5.operator overloading
+
