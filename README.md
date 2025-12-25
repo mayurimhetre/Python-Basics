@@ -1,38 +1,41 @@
-# Python-Basics
+# Python Projects Overview
 
-File 1: bmi calculator -- bmi_calculator.py
-Function used to take height and weight from user 
+This repository contains several Python projects and examples demonstrating basic to advanced Python concepts. Each file showcases a specific functionality or concept.
 
-File 2: calculator.py -- Simple calculator in python 
-Funcation takes option, value of a and b from user
+## File List
 
-File 3:random_dice_card.py -- Example of Rolling a dice, two dice at a time and picking a card from deck of cards
-Function Used -- random.choices
+### 1. `bmi_calculator.py`  
+A **BMI Calculator** that takes height and weight from the user and calculates Body Mass Index (BMI).
 
-File4 : string_operations.py
-String operatiosn- sort ,reversed,taking multiple inputs,length of string, generating password
+### 2. `calculator.py`  
+A **Simple Calculator** that performs basic operations. The function takes an option and the values of `a` and `b` from the user.
 
-File 5:spelll-chcek.py---- Spelling Checker in Python
-Module used : textblob
+### 3. `random_dice_card.py`  
+An example of **rolling dice** (two dice at a time) and **picking a card from a deck**.  
+**Function used:** `random.choices`
 
-File 6: os attributes
-os module operations
+### 4. `string_operations.py`  
+Performs various **string operations** such as sorting, reversing, taking multiple inputs, finding string length, and generating a password.
 
-File 7:list operations
-copy , deepcopy
+### 5. `spell_check.py`  
+A **Spelling Checker** implemented using the **TextBlob** module to detect and correct spelling errors in text.
 
-File 8: oops concept in python
-1.Inheritance
+### 6. `os_attributes.py`  
+Demonstrates **operations using the `os` module**, including interacting with files, directories, and system attributes.
 
-2.Encapsulation
+### 7. `list_operations.py`  
+Examples of **list manipulations**, including **copying** and **deep copying** of lists.
 
-3.__doc__ ,__init__
+### 8. `oops_concepts.py`  
+Illustrates **Object-Oriented Programming (OOP) concepts** in Python:  
+- Inheritance  
+- Encapsulation  
+- `__init__` and docstrings  
+- Magic methods  
+- Operator overloading
 
-4.magic methods
+### 9. `decorators.py`  
+Demonstrates **decorators** to modify functions, e.g., converting input strings to **lowercase** or **uppercase**.
 
-5.operator overloading
-
-File 9: Decorators in python to convert input str to lower and upper
-
-File10: set and dict in python
-
+### 10. `set_dict_operations.py`  
+Examples of **Set and Dictionary operations** in Python, including creation, updating, and accessing elements.
